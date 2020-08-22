@@ -1,0 +1,10 @@
+[workspace]
+restore_data_on_startup = True
+save_data_on_exit = True
+save_history = True
+save_non_project_files = False
+
+[main]
+version = 0.2.0
+recent_files = ['ProjectGUI.py', '..\\..\\..\\Documents\\WeChat Files\\wxid_59olnrfril4h12\\FileStorage\\File\\2020-07\\TwoFrames.py', 'testing.py', 'MondoPractice.py', 'map practice.py', 'main.py', 'functionality.py', 'mongodb_init.py', 'mongodb_sorted_incident_init.py', '..\\..\\..\\Downloads\\functionality_Sort_Updated.py', 'testing_map.py', 'testingmap2.py']
+
